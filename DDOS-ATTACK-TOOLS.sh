@@ -69,7 +69,7 @@ cd Hammer
 python hammer.py
  
 
-;
+;;
 
 
 #DRODIS
