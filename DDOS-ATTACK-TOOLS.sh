@@ -66,8 +66,9 @@ case $pil in
 toilet -f standard " DDOS-TOOL " -F gay
 git clone https://github.com/TermuxHackz/Hammer
 cd Hammer
-python hammer.py
- 
+echo "Installation complete...wait 4s";
+sleep 4
+clear
 
 ;;
 
@@ -80,7 +81,9 @@ toilet -f standard " DDOS-TOOL " -F gay
 git clone https://github.com/TermuxHackz/DRODIS
 cd DRODIS
 chmod +x exploit.py
-python exploit.py 
+echo "Installation complete...wait 4s";
+sleep 4
+clear
 
 
 ;;
@@ -93,8 +96,9 @@ python exploit.py
 toilet -f standard " DDOS-TOOL " -F gay
 git clone https://github.com/gkbrk/slowloris.git
 cd slowloris
-python3 slowloris.py
-
+echo "Installation complete...wait 4s";
+sleep 4
+clear
 
 ;;
 
@@ -106,7 +110,9 @@ python3 slowloris.py
 toilet -f standard " DDOS-TOOL " -F gay
 git clone https://github.com/Mr4FX/Hulk-ddos-attack
 chmod +x hulk.py
-python hulk.py
+echo "Installation complete...wait 4s";
+sleep 4
+clear
 
 
 ;;
@@ -119,7 +125,9 @@ python hulk.py
 toilet -f standard " DDOS-TOOL " -F gay
 git clone https://github.com/TermuxHackz/pyloris
 cd pyloris
-python attack.py
+echo "Installation complete...wait 4s";
+sleep 4
+clear
 
 
 ;;
